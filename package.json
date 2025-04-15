@@ -1,0 +1,19 @@
+{
+    "name": "cars-backend",
+    "version": "1.0.0",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "dev": "nodemon --ignore \"./data\" server.js",
+        "start": "node server.js"
+    },
+    "author": "Stav",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "cookie-parser": "^1.4.7",
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "fs": "^0.0.1-security"
+    }
+}
