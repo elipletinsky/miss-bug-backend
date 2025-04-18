@@ -1,10 +1,19 @@
 [
     {
+        "title": "test add bug",
+        "severity": 1,
+        "description": "a",
+        "createdAt": 1744977844721,
+        "_id": "MXvWnc",
+        "labels": ["critical", "need-CR"]
+    },
+    {
         "_id": "9vPFBC",
-        "title": "now date",
+        "title": "now date1",
         "severity": 9,
         "description": "xg",
-        "createdAt": 1744467324564
+        "createdAt": 1744467324564,
+        "labels": ["critical", "dev-branch"]
     },
     {
         "_id": "abc123",
@@ -12,20 +21,6 @@
         "severity": 1,
         "description": "decs dgfsdfgo test",
         "createdAt": 1744163124564
-    },
-    {
-        "_id": "aKeDfe",
-        "title": "dest test",
-        "severity": 1,
-        "description": "decs dgfsdfgo sfosfo",
-        "createdAt": 1744467324534
-    },
-    {
-        "_id": "WXlF9J",
-        "title": "date new",
-        "severity": 5,
-        "description": "ad",
-        "createdAt": 1744467324564
     },
     {
         "_id": "abc124",

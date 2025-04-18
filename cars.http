@@ -1,0 +1,26 @@
+@baseUrl=http://127.0.0.1:3030/api/bug/
+
+get {{baseUrl}}
+
+###
+
+get {{baseUrl}}?pageIdx=1
+
+###
+
+get {{baseUrl}}/9vPFBC
+
+### 
+
+delete {{baseUrl}}/kXFKQU
+
+###
+
+post {{baseUrl}}
+Content-Type: application/json
+
+{
+    "vendor": "Mitsudodo",
+    "speed": 88,
+    "price": 33
+}

@@ -155,3 +155,77 @@
 15.4.2025, 14:29:41 - INFO - Example app listening on port http://127.0.0.1:3030/
 15.4.2025, 14:29:44 - INFO - Example app listening on port http://127.0.0.1:3030/
 15.4.2025, 14:29:44 - INFO - Example app listening on port http://127.0.0.1:3030/
+17.4.2025, 18:23:55 - INFO - Example app listening on port http://127.0.0.1:3030/
+17.4.2025, 18:24:01 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 14:41:23 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 14:53:12 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 15:00:40 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 15:03:04 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 15:03:08 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 15:03:10 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 15:03:15 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 15:03:16 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 15:03:18 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 16:57:42 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 16:57:43 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 16:57:46 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 16:57:49 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:00:32 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:00:35 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:00:36 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:01:17 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:03:15 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:03:44 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:03:47 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:03:50 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:03:56 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:04:45 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
+18.4.2025, 17:06:48 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
+18.4.2025, 17:06:49 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
+18.4.2025, 17:06:51 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
+18.4.2025, 17:06:52 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
+18.4.2025, 17:07:33 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:07:34 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:07:34 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:10:02 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:10:04 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:10:04 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:10:13 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:10:14 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:10:14 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:10:38 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:10:39 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
+18.4.2025, 17:10:52 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:10:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
+18.4.2025, 17:10:54 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
+18.4.2025, 17:11:12 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
+18.4.2025, 17:13:02 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:13:05 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:13:56 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
+18.4.2025, 17:13:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
+18.4.2025, 17:14:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:14:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:14:30 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
+18.4.2025, 17:15:05 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:15:06 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:15:06 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:15:08 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
+18.4.2025, 17:15:10 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"All"}
+18.4.2025, 17:15:13 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:15:14 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:15:47 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:15:47 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:15:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
+18.4.2025, 17:15:50 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:19:25 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:19:25 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:19:33 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:19:33 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:19:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
+18.4.2025, 17:19:47 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"dev-branch"}
+18.4.2025, 17:19:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:19:52 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:19:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:32:35 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:32:37 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:32:37 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
