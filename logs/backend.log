@@ -229,3 +229,88 @@
 18.4.2025, 17:32:35 - INFO - Example app listening on port http://127.0.0.1:3030/
 18.4.2025, 17:32:37 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
 18.4.2025, 17:32:37 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+18.4.2025, 17:34:59 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:35:06 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:35:07 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:35:15 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:35:16 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:35:25 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:36:46 - INFO - Example app listening on port http://127.0.0.1:3030/
+18.4.2025, 17:37:10 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 13:46:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 13:46:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 13:46:19 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 13:46:30 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:43:00 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:43:00 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:47:05 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:47:05 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:48:24 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:48:25 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:49:04 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:49:05 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:52:07 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:55:22 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:56:12 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:56:21 - INFO - filterBy: | {"txt":"m","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:56:28 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:56:56 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:56:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:56:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:00 - INFO - filterBy: | {"txt":"m","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:02 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:04 - INFO - filterBy: | {"txt":"r","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:05 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:42 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:44 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:44 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:57:55 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:57:58 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:57:59 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:58:01 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:58:09 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:09 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:12 - INFO - filterBy: | {"txt":"","maxSeverity":1,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:17 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:42 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:42 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:47 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:47 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:51 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:58:56 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:59:16 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:59:18 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:59:21 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:59:25 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 15:59:43 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:59:58 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 15:59:58 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:00:02 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:00:03 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:00:03 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:00:07 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:00:27 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 16:00:28 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:00:28 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:00:31 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:03:22 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:03:25 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:03:28 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:03:30 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:03:54 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 16:03:57 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:03:57 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:01 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:35 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 16:04:39 - INFO - Example app listening on port http://127.0.0.1:3030/
+21.4.2025, 16:04:40 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:40 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:43 - INFO - filterBy: | {"txt":"","maxScore":4,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:45 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:46 - INFO - filterBy: | {"txt":"","maxScore":40,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:47 - INFO - filterBy: | {"txt":"","maxScore":4,"minCreatedAt":0,"sortedBy":"","label":""}
+21.4.2025, 16:04:48 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+24.4.2025, 15:34:15 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+24.4.2025, 15:34:15 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+26.4.2025, 20:45:05 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+26.4.2025, 20:45:06 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}

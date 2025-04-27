@@ -20,6 +20,8 @@ app.use(express.json())
 
 import {bugRoutes} from './api/bug/bug.routes.js'
 app.use('/api/bug', bugRoutes)
+import {userRoutes} from './api/user/user.routes.js'
+app.use('/api/user', userRoutes)
 
 //* ------------------- Bugs Crud -------------------
 //* Read/List

@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "MXvWnc",
+        "fullname": "Muki Ja",
+        "username" : "muki",
+        "password" : "muki1234",
+        "score" : 55
+    },
+    {
+        "_id": "MXvWnx",
+        "fullname": "rafi sa",
+        "username" : "rafi",
+        "password" : "rafi1234",
+        "score" : 34
+    }
+]
