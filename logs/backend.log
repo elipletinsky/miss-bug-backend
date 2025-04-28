@@ -1,316 +1,224 @@
-8.4.2025, 19:19:34 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:20:16 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:20:16 - ERROR - Couldn't get cars | ReferenceError: asd is not defined
-8.4.2025, 19:21:33 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:24:31 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:24:35 - ERROR - Couldn't get cars | ReferenceError: asd is not defined
-8.4.2025, 19:25:20 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:26:08 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:26:31 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:27:13 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:27:55 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:28:14 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:28:41 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:30:10 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:31:31 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:32:58 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:43:25 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:45:58 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:51:37 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 19:54:24 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:13:24 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:18:00 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:18:07 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:18:12 - ERROR - Couldn't save car | Error: Cannot find car
-8.4.2025, 20:18:37 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:18:42 - ERROR - Couldn't save car | Error: Cannot find car
-8.4.2025, 20:24:55 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:25:38 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:25:44 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:26:39 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:26:49 - ERROR - Couldn't get cars | ReferenceError: filterBy is not defined
-8.4.2025, 20:26:54 - ERROR - Couldn't get cars | ReferenceError: filterBy is not defined
-8.4.2025, 20:26:54 - ERROR - Couldn't get cars | ReferenceError: filterBy is not defined
-8.4.2025, 20:27:13 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:30:08 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:30:24 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:30:55 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:31:18 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:32:28 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:33:11 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:38:08 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:39:17 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:39:22 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:40:53 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:40:56 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:41:13 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:43:18 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:43:47 - INFO - Example app listening on port http://127.0.0.1:3030/
-8.4.2025, 20:49:42 - INFO - Example app listening on port http://127.0.0.1:3030/
-10.4.2025, 14:11:24 - INFO - Example app listening on port http://127.0.0.1:3030/
-10.4.2025, 20:15:33 - INFO - Example app listening on port http://127.0.0.1:3030/
-10.4.2025, 20:33:29 - INFO - Example app listening on port http://127.0.0.1:3030/
-10.4.2025, 20:33:54 - INFO - Example app listening on port http://127.0.0.1:3030/
-10.4.2025, 20:33:58 - INFO - Example app listening on port http://127.0.0.1:3030/
-10.4.2025, 21:22:39 - INFO - Example app listening on port http://127.0.0.1:3030/
-11.4.2025, 17:32:20 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 14:23:47 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 16:23:00 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 16:23:03 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:00:27 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:00:42 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:00:49 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:00:51 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:01:03 - INFO - filterBy: | {"txt":"","maxPrice":null,"minSpeed":null}
-12.4.2025, 17:01:05 - INFO - filterBy: | {"txt":"","maxPrice":null,"minSpeed":null}
-12.4.2025, 17:01:12 - INFO - filterBy: | {"txt":"s","maxPrice":null,"minSpeed":null}
-12.4.2025, 17:01:51 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:01:55 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:02:07 - INFO - filterBy: | {"txt":"s","maxPrice":0,"minSpeed":0}
-12.4.2025, 17:02:10 - INFO - filterBy: | {"txt":"s","maxPrice":4,"minSpeed":0}
-12.4.2025, 17:02:49 - INFO - filterBy: | {"txt":"","maxPrice":0,"minSpeed":0}
-12.4.2025, 17:02:49 - INFO - filterBy: | {"txt":"","maxPrice":0,"minSpeed":0}
-12.4.2025, 17:02:52 - INFO - filterBy: | {"txt":"","maxPrice":4,"minSpeed":0}
-12.4.2025, 17:03:23 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:03:25 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:03:30 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0}
-12.4.2025, 17:03:33 - INFO - filterBy: | {"txt":"","maxSeverity":4,"minCreatedAt":0}
-12.4.2025, 17:03:36 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0}
-12.4.2025, 17:03:40 - INFO - filterBy: | {"txt":"","maxSeverity":1,"minCreatedAt":0}
-12.4.2025, 17:03:41 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0}
-12.4.2025, 17:03:47 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0}
-12.4.2025, 17:03:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0}
-12.4.2025, 17:07:04 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:07:22 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:07:58 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:08:04 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:08:30 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:08:52 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:08:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:10:38 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"title"}
-12.4.2025, 17:10:41 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:10:41 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:10:44 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"title"}
-12.4.2025, 17:10:48 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"severity"}
-12.4.2025, 17:10:50 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"createdAt"}
-12.4.2025, 17:11:39 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:11:41 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:11:42 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:11:44 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:11:45 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:11:46 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"title"}
-12.4.2025, 17:11:50 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"severity"}
-12.4.2025, 17:11:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"createdAt"}
-12.4.2025, 17:12:51 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"title"}
-12.4.2025, 17:12:52 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"createdAt"}
-12.4.2025, 17:13:52 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:13:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:13:55 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:13:56 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:02 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:02 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:07 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:07 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:11 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:11 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:17 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:17 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:41 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:41 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:46 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:14:46 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:15:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:15:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:15:48 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:15:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:15:51 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"createdAt"}
-12.4.2025, 17:16:24 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:25 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:29 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"createdAt"}
-12.4.2025, 17:16:33 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:34 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:36 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:36 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:42 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:43 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:52 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:16:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:17:08 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:17:09 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-12.4.2025, 17:17:22 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:18:04 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:18:32 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:19:25 - INFO - Example app listening on port http://127.0.0.1:3030/
-12.4.2025, 17:19:55 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:09:44 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:10:09 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:10:09 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:10:11 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:10:11 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:15:42 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:15:42 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:15:43 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:15:43 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:29:41 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:29:41 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:29:44 - INFO - Example app listening on port http://127.0.0.1:3030/
-15.4.2025, 14:29:44 - INFO - Example app listening on port http://127.0.0.1:3030/
-17.4.2025, 18:23:55 - INFO - Example app listening on port http://127.0.0.1:3030/
-17.4.2025, 18:24:01 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 14:41:23 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 14:53:12 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 15:00:40 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 15:03:04 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 15:03:08 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 15:03:10 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 15:03:15 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 15:03:16 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 15:03:18 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 16:57:42 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 16:57:43 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 16:57:46 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 16:57:49 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:00:32 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:00:35 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:00:36 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:01:17 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:03:15 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:03:44 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:03:47 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:03:50 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:03:56 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:04:45 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
-18.4.2025, 17:06:48 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
-18.4.2025, 17:06:49 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
-18.4.2025, 17:06:51 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
-18.4.2025, 17:06:52 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'includes')
-18.4.2025, 17:07:33 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:07:34 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:07:34 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:10:02 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:10:04 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:10:04 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:10:13 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:10:14 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:10:14 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:10:38 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:10:39 - ERROR - Couldn't get bugs | ReferenceError: loggerService is not defined
-18.4.2025, 17:10:52 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:10:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-18.4.2025, 17:10:54 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-18.4.2025, 17:11:12 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":""}
-18.4.2025, 17:13:02 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:13:05 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:13:56 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
-18.4.2025, 17:13:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
-18.4.2025, 17:14:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:14:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:14:30 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
-18.4.2025, 17:15:05 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:15:06 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:15:06 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:15:08 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
-18.4.2025, 17:15:10 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"All"}
-18.4.2025, 17:15:13 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:15:14 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:15:47 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:15:47 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:15:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
-18.4.2025, 17:15:50 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:19:25 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:19:25 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:19:33 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:19:33 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:19:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"critical"}
-18.4.2025, 17:19:47 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":"dev-branch"}
-18.4.2025, 17:19:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:19:52 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:19:53 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:32:35 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:32:37 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:32:37 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-18.4.2025, 17:34:59 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:35:06 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:35:07 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:35:15 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:35:16 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:35:25 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:36:46 - INFO - Example app listening on port http://127.0.0.1:3030/
-18.4.2025, 17:37:10 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 13:46:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 13:46:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 13:46:19 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 13:46:30 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:43:00 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:43:00 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:47:05 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:47:05 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:48:24 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:48:25 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:49:04 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:49:05 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:52:07 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:55:22 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:56:12 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:56:21 - INFO - filterBy: | {"txt":"m","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:56:28 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:56:56 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:56:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:56:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:00 - INFO - filterBy: | {"txt":"m","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:02 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:04 - INFO - filterBy: | {"txt":"r","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:05 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:42 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:44 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:44 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:57:55 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:57:58 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:57:59 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:58:01 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:58:09 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:09 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:12 - INFO - filterBy: | {"txt":"","maxSeverity":1,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:17 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:42 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:42 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:47 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:47 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:51 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:58:56 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:59:16 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:59:18 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:59:21 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:59:25 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 15:59:43 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:59:58 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 15:59:58 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:00:02 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:00:03 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:00:03 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:00:07 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:00:27 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 16:00:28 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:00:28 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:00:31 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:03:22 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:03:25 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:03:28 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:03:30 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:03:54 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 16:03:57 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:03:57 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:01 - INFO - filterBy: | {"txt":"","maxSeverity":null,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:35 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 16:04:39 - INFO - Example app listening on port http://127.0.0.1:3030/
-21.4.2025, 16:04:40 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:40 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:43 - INFO - filterBy: | {"txt":"","maxScore":4,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:45 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:46 - INFO - filterBy: | {"txt":"","maxScore":40,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:47 - INFO - filterBy: | {"txt":"","maxScore":4,"minCreatedAt":0,"sortedBy":"","label":""}
-21.4.2025, 16:04:48 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
-24.4.2025, 15:34:15 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
-24.4.2025, 15:34:15 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
-26.4.2025, 20:45:05 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
-26.4.2025, 20:45:06 - INFO - filterBy: | {"txt":"","maxScore":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 14:45:53 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 14:45:56 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 14:46:15 - ERROR - Failed to Login NaN
+28.4.2025, 14:49:46 - INFO - Up and running on port 3030
+28.4.2025, 14:49:58 - INFO - Up and running on port 3030
+28.4.2025, 14:49:59 - INFO - Up and running on port 3030
+28.4.2025, 14:50:05 - ERROR - Failed to Login NaN
+28.4.2025, 14:50:33 - INFO - Up and running on port 3030
+28.4.2025, 14:50:35 - INFO - Up and running on port 3030
+28.4.2025, 14:50:39 - INFO - Up and running on port 3030
+28.4.2025, 14:50:45 - INFO - 🚀 ~ login ~ username: | muki
+28.4.2025, 14:50:45 - ERROR - Failed to Login NaN
+28.4.2025, 14:52:03 - INFO - Up and running on port 3030
+28.4.2025, 14:52:11 - INFO - Up and running on port 3030
+28.4.2025, 14:52:16 - INFO - Up and running on port 3030
+28.4.2025, 14:52:26 - INFO - Up and running on port 3030
+28.4.2025, 14:52:30 - INFO - Up and running on port 3030
+28.4.2025, 14:52:35 - INFO - 🚀 ~ login ~ username: | muki
+28.4.2025, 14:52:35 - ERROR - Failed to Login NaN
+28.4.2025, 14:53:26 - INFO - Up and running on port 3030
+28.4.2025, 14:53:34 - INFO - Up and running on port 3030
+28.4.2025, 14:53:48 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 14:53:48 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 14:53:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 14:53:51 - INFO - 🚀 ~ login ~ username: | rafi
+28.4.2025, 14:53:51 - ERROR - Failed to Login NaN
+28.4.2025, 14:54:28 - INFO - Up and running on port 3030
+28.4.2025, 14:55:30 - INFO - Up and running on port 3030
+28.4.2025, 14:55:37 - INFO - Up and running on port 3030
+28.4.2025, 14:55:55 - INFO - 🚀 ~ login ~ username: | muki
+28.4.2025, 14:55:55 - INFO - User login:  | {"_id":"MXvWnc","fullname":"Muki Ja","score":55}
+28.4.2025, 17:43:44 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 17:43:48 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 17:50:59 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 17:51:04 - INFO - 🚀 ~ login ~ username: | muki
+28.4.2025, 17:51:04 - INFO - User login:  | {"_id":"MXvWnc","fullname":"Muki Ja","score":55}
+28.4.2025, 17:51:08 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 17:51:08 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 17:51:13 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 17:51:38 - DEBUG - auth.service - signup with username: eli5p, fullname: eli psgsgsgg
+28.4.2025, 17:51:39 - INFO - User signup: | {"_id":"3hCISw","fullname":"eli psgsgsgg"}
+28.4.2025, 17:51:39 - DEBUG - auth.route - new account created: {"username":"eli5p","password":"$2b$10$.ddjgO6GpGPnEKnlNACZF.gPyp.ESRg3sU0BsQXx0TWsPZbDn60V.","fullname":"eli psgsgsgg","_id":"3hCISw"}
+28.4.2025, 17:51:56 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 17:52:00 - INFO - User login:  | {"_id":"3hCISw","fullname":"eli psgsgsgg"}
+28.4.2025, 17:52:00 - INFO - 🚀 ~ login ~ username: | eli5p
+28.4.2025, 17:52:06 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 17:52:10 - INFO - 🚀 ~ login ~ username: | eli5p
+28.4.2025, 17:52:10 - INFO - User login:  | {"_id":"3hCISw","fullname":"eli psgsgsgg"}
+28.4.2025, 17:52:15 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 17:53:03 - DEBUG - auth.service - signup with username: guy, fullname: guy gou
+28.4.2025, 17:53:03 - DEBUG - auth.route - new account created: {"username":"guy","password":"$2b$10$E5vzIJaNqRHvzEp9Ryeg4e9LaokHNqBDnaamM.PWQ9cLtDMY6SAKe","fullname":"guy gou","_id":"YhzUcC"}
+28.4.2025, 17:53:03 - INFO - User signup: | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 17:53:17 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:01:31 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:01:32 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:01:41 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:01:41 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:01:42 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:01:43 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:01:43 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:01:43 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:01:47 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:01:55 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:03:07 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:03:20 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:03:21 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:03:35 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:04:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:04:03 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:04:06 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:04:12 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:05:36 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:05:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:05:43 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:07:59 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:07:59 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:08:14 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:08:14 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:08:15 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:08:44 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:08:44 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:08:46 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:08:46 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:08:54 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:08:54 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:08:58 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:08:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:09:09 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:09:09 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:10:27 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:10:27 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:10:39 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:10:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:10:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:10:45 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:10:45 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:10:45 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:11:24 - INFO - Up and running on port 3030
+28.4.2025, 18:11:28 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:11:28 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:11:28 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:12:11 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:12:11 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:12:11 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:12:16 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:12:16 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:12:16 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:12:18 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:12:18 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:12:19 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:13:15 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:13:15 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:13:15 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:15:08 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:15:08 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:15:08 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:15:36 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:15:36 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:15:36 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:15:39 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:15:39 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:15:43 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:15:44 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:17:26 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:19:11 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:19:15 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:19:20 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:19:20 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:19:21 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:19:27 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:19:27 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:19:28 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:19:28 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:19:33 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:19:36 - INFO - 🚀 ~ login ~ username: | eli5p
+28.4.2025, 18:19:36 - INFO - User login:  | {"_id":"3hCISw","fullname":"eli psgsgsgg"}
+28.4.2025, 18:19:38 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:19:38 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:31:59 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:31:59 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:33:22 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:33:22 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:00 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:01 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:04 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:38:06 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:38:06 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:38:29 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:29 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:30 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:31 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:32 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:32 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:38:47 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:39:04 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:39:04 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:39:46 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:39:46 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:39:59 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:39:59 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:40:27 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:40:28 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:40:59 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:40:59 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:41:12 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:41:15 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:41:15 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:41:56 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:41:56 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:42:19 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:42:19 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:42:26 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:42:30 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:42:30 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:46:32 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:46:33 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:46:56 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:46:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:47:00 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:47:00 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:47:08 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:47:16 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:47:16 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:47:36 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:47:39 - INFO - 🚀 ~ login ~ username: | eli5p
+28.4.2025, 18:47:39 - INFO - User login:  | {"_id":"3hCISw","fullname":"eli psgsgsgg"}
+28.4.2025, 18:47:41 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:48:26 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:48:26 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:48:26 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:48:38 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:48:46 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:49:29 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:49:31 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:49:37 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:49:39 - INFO - filterBy: | {"maxScore":null,"minCreatedAt":null}
+28.4.2025, 18:49:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:49:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:49:42 - INFO - 🚀 ~ login ~ username: | guy
+28.4.2025, 18:49:42 - INFO - User login:  | {"_id":"YhzUcC","fullname":"guy gou"}
+28.4.2025, 18:50:17 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:50:39 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:50:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:51:30 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:51:34 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:52:11 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:52:18 - INFO - Up and running on port 3030
+28.4.2025, 18:52:19 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:52:19 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:52:32 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:52:32 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:52:49 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:53:54 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:53:54 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:54:57 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:56:29 - INFO - Up and running on port 3030
+28.4.2025, 18:56:44 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:56:56 - INFO - Up and running on port 3030
+28.4.2025, 18:56:57 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 18:56:58 - INFO - filterBy: | {"txt":"","maxSeverity":0,"minCreatedAt":0,"sortedBy":"","label":""}
+28.4.2025, 19:27:41 - INFO - Up and running on port 3030
+28.4.2025, 19:27:43 - INFO - Up and running on port 3030

@@ -33,6 +33,7 @@ function validateToken(token) {
 
 async function login(username, password) {
     var user = await userService.getByUsername(username)
+    
     if (!user) throw 'Unkown username'
 
     //  un-comment for real login

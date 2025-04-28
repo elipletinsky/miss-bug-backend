@@ -53,7 +53,8 @@ export async function addBug(req, res) {
 		title: req.body.title,
 		severity: +req.body.severity,
 		description: req.body.description,
-		createdAt: +req.body.createdAt
+		createdAt: +req.body.createdAt,
+		creator : req.body.creator,
 	}
 
 	try {

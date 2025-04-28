@@ -4,7 +4,8 @@ export const userService = {
     query,
     getById,
     remove,
-    save
+    save,
+    getByUsername
 }
 
 const users = readJsonFile('./data/users.json')
@@ -37,6 +38,17 @@ async function query(filterBy) {
         // }
         return usersToDisplay
     } catch (err) {
+        throw err
+    }
+}
+
+async function getByUsername(username) {
+    try {
+        const user = users.find(user => user.username === username)
+        // if (!user) throw `User not found by username : ${username}`
+        return user
+    } catch (err) {
+        loggerService.error('userService[getByUsername] : ', err)
         throw err
     }
 }
